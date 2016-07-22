@@ -1,4 +1,4 @@
-# Pokemon Go Awesome Bot
+# Pokemon Go Awesome
 
 A list of all bots, APIs, Tools which help you to be god in Pokemon Go
 
