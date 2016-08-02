@@ -18,6 +18,15 @@ A list of all bots, APIs, Tools which help you to be god in Pokemon Go
 * [NicklasWallgren/PokemonGoAPI-PHP](https://github.com/NicklasWallgren/PokemonGoAPI-PHP): Pokemon Go API PHP library.
 * [DrDelay/pokemon-go](https://github.com/DrDelay/pokemon-go): Another Pokemon Go API writen in PHP.
 * 
+
 ## Tool
 
 * [AHAAAAAAA/PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map): Live visualization of all the pokemon in your area.
+
+## Chat channels
+
+* [For Necrobot](https://discord.gg/qYnZAxV)
+* [For PokeMobBot](https://discord.gg/XPN4RxY)
+* [Gym battle](https://discord.gg/2wjB6BE)
+* [Pokemon Rare Hunting]()
+* [Rare spotting](https://discord.gg/CTsbPuS)
