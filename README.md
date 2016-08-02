@@ -30,3 +30,7 @@ A list of all bots, APIs, Tools which help you to be god in Pokemon Go
 * [Gym battle](https://discord.gg/2wjB6BE)
 * [Pokemon Rare Hunting]()
 * [Rare spotting](https://discord.gg/CTsbPuS)
+
+## Social network
+
+* [Pokemon Go Việt Nam](https://www.facebook.com/groups/547408728795821)
